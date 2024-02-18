@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/primevideoUI/static/css/main.b7369026.css",
+    "main.js": "/primevideoUI/static/js/main.9a707705.js",
+    "index.html": "/primevideoUI/index.html",
+    "main.b7369026.css.map": "/primevideoUI/static/css/main.b7369026.css.map",
+    "main.9a707705.js.map": "/primevideoUI/static/js/main.9a707705.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7369026.css",
+    "static/js/main.9a707705.js"
+  ]
+}
